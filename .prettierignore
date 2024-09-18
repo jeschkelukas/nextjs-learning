@@ -1,0 +1,5 @@
+**/*.js
+**/*.less
+/node_modules/
+/.next/
+coverage
